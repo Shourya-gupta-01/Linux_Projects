@@ -17,4 +17,4 @@ A bash script to analyse basic server performance stats.
     ./server-stats.sh
     ```
 
-This Project is a part of - "https://roadmap.sh/projects/server-stats"
+This Project is a part of - [roadmap.sh](https://roadmap.sh/projects/server-stats)
